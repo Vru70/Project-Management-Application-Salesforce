@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>City__c</fullName>
+    <externalId>false</externalId>
+    <label>City</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <controllingField>State__c</controllingField>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Mumbai</fullName>
+                <default>false</default>
+                <label>Mumbai</label>
+            </value>
+            <value>
+                <fullName>Pune</fullName>
+                <default>false</default>
+                <label>Pune</label>
+            </value>
+            <value>
+                <fullName>Kochi</fullName>
+                <default>false</default>
+                <label>Kochi</label>
+            </value>
+            <value>
+                <fullName>Trivandrum</fullName>
+                <default>false</default>
+                <label>Trivandrum</label>
+            </value>
+            <value>
+                <fullName>Ahemdabad</fullName>
+                <default>false</default>
+                <label>Ahemdabad</label>
+            </value>
+            <value>
+                <fullName>Surat</fullName>
+                <default>false</default>
+                <label>Surat</label>
+            </value>
+            <value>
+                <fullName>Los Angelus</fullName>
+                <default>false</default>
+                <label>Los Angelus</label>
+            </value>
+            <value>
+                <fullName>San Fransisco</fullName>
+                <default>false</default>
+                <label>San Fransisco</label>
+            </value>
+            <value>
+                <fullName>Miami</fullName>
+                <default>false</default>
+                <label>Miami</label>
+            </value>
+            <value>
+                <fullName>Orlando</fullName>
+                <default>false</default>
+                <label>Orlando</label>
+            </value>
+            <value>
+                <fullName>New York City</fullName>
+                <default>false</default>
+                <label>New York City</label>
+            </value>
+            <value>
+                <fullName>Buffalo</fullName>
+                <default>false</default>
+                <label>Buffalo</label>
+            </value>
+            <value>
+                <fullName>Sydney</fullName>
+                <default>false</default>
+                <label>Sydney</label>
+            </value>
+            <value>
+                <fullName>Newcastle</fullName>
+                <default>false</default>
+                <label>Newcastle</label>
+            </value>
+            <value>
+                <fullName>Adelaide</fullName>
+                <default>false</default>
+                <label>Adelaide</label>
+            </value>
+            <value>
+                <fullName>Port Lincoln</fullName>
+                <default>false</default>
+                <label>Port Lincoln</label>
+            </value>
+        </valueSetDefinition>
+        <valueSettings>
+            <controllingFieldValue>Maharashtra</controllingFieldValue>
+            <valueName>Mumbai</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Maharashtra</controllingFieldValue>
+            <valueName>Pune</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Gujrat</controllingFieldValue>
+            <valueName>Ahemdabad</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Gujrat</controllingFieldValue>
+            <valueName>Surat</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Kerla</controllingFieldValue>
+            <valueName>Kochi</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Kerla</controllingFieldValue>
+            <valueName>Trivandrum</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>California</controllingFieldValue>
+            <valueName>Los Angelus</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>California</controllingFieldValue>
+            <valueName>San Fransisco</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Florida</controllingFieldValue>
+            <valueName>Miami</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Florida</controllingFieldValue>
+            <valueName>Orlando</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>New York</controllingFieldValue>
+            <valueName>New York City</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>New York</controllingFieldValue>
+            <valueName>Buffalo</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>New South Wales</controllingFieldValue>
+            <valueName>Sydney</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>New South Wales</controllingFieldValue>
+            <valueName>Newcastle</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>South Australia</controllingFieldValue>
+            <valueName>Adelaide</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>South Australia</controllingFieldValue>
+            <valueName>Port Lincoln</valueName>
+        </valueSettings>
+    </valueSet>
+</CustomField>
