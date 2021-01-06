@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomApplication xmlns="http://soap.sforce.com/2006/04/metadata">
+    <brand>
+        <headerColor>#0070D2</headerColor>
+        <logo>PMA</logo>
+        <logoVersion>1</logoVersion>
+        <shouldOverrideOrgTheme>false</shouldOverrideOrgTheme>
+    </brand>
+    <description>Project Management Application is a great project management software for the project management power user. Teamwork Projects includes all the tools you’ll need to track the development of a project</description>
+    <formFactors>Small</formFactors>
+    <formFactors>Large</formFactors>
+    <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
+    <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
+    <label>Project Management Application</label>
+    <navType>Standard</navType>
+    <tabs>standard-home</tabs>
+    <tabs>Project__c</tabs>
+    <tabs>Client__c</tabs>
+    <tabs>Releases__c</tabs>
+    <tabs>Employee__c</tabs>
+    <tabs>Requirement__c</tabs>
+    <tabs>Task_Assigned__c</tabs>
+    <uiType>Lightning</uiType>
+    <utilityBar>Project_Management_Application_UtilityBar</utilityBar>
+</CustomApplication>
