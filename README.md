@@ -1,1 +1,2 @@
 # Project Management Application
+This is a Project Management Application. Using this application a company can manage the lifecycle of their Projects. They can create Client & Project records and maintain the relationship between them. The project manager has the authority to create new Requirements and assign tasks to the employees. Project manager can track the progress of the project and the tasks allocated to the employee. The release object can be used to send a mail to the manager and the client to inform them about the release of the new  feature or project.
